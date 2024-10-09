@@ -1,0 +1,12 @@
+D:\monocept\tasks\MovieLibrary\bin\Debug\net8.0\MovieLibrary.deps.json
+D:\monocept\tasks\MovieLibrary\bin\Debug\net8.0\MovieLibrary.dll
+D:\monocept\tasks\MovieLibrary\bin\Debug\net8.0\MovieLibrary.pdb
+D:\monocept\tasks\MovieLibrary\obj\Debug\net8.0\MovieLibrary.csproj.AssemblyReference.cache
+D:\monocept\tasks\MovieLibrary\obj\Debug\net8.0\MovieLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\monocept\tasks\MovieLibrary\obj\Debug\net8.0\MovieLibrary.AssemblyInfoInputs.cache
+D:\monocept\tasks\MovieLibrary\obj\Debug\net8.0\MovieLibrary.AssemblyInfo.cs
+D:\monocept\tasks\MovieLibrary\obj\Debug\net8.0\MovieLibrary.csproj.CoreCompileInputs.cache
+D:\monocept\tasks\MovieLibrary\obj\Debug\net8.0\MovieLibrary.dll
+D:\monocept\tasks\MovieLibrary\obj\Debug\net8.0\refint\MovieLibrary.dll
+D:\monocept\tasks\MovieLibrary\obj\Debug\net8.0\MovieLibrary.pdb
+D:\monocept\tasks\MovieLibrary\obj\Debug\net8.0\ref\MovieLibrary.dll

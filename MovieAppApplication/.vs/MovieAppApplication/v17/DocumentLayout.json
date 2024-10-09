@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\monocept\\tasks\\MovieAppMiniProject\\MovieAppApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0969BFA6-6504-4CDE-94B5-95DDBA7C2E93}|MovieAppApplication.csproj|d:\\monocept\\tasks\\movieappminiproject\\movieappapplication\\presentation\\moviepresentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0969BFA6-6504-4CDE-94B5-95DDBA7C2E93}|MovieAppApplication.csproj|solutionrelative:presentation\\moviepresentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0969BFA6-6504-4CDE-94B5-95DDBA7C2E93}|MovieAppApplication.csproj|d:\\monocept\\tasks\\movieappminiproject\\movieappapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0969BFA6-6504-4CDE-94B5-95DDBA7C2E93}|MovieAppApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviePresentation.cs",
+              "DocumentMoniker": "D:\\monocept\\tasks\\MovieAppMiniProject\\MovieAppApplication\\Presentation\\MoviePresentation.cs",
+              "RelativeDocumentMoniker": "Presentation\\MoviePresentation.cs",
+              "ToolTip": "D:\\monocept\\tasks\\MovieAppMiniProject\\MovieAppApplication\\Presentation\\MoviePresentation.cs",
+              "RelativeToolTip": "Presentation\\MoviePresentation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:30:52.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\monocept\\tasks\\MovieAppMiniProject\\MovieAppApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\monocept\\tasks\\MovieAppMiniProject\\MovieAppApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:30:07.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

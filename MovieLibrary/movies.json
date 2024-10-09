@@ -1,0 +1,32 @@
+[
+  {
+    "MovieId": 1,
+    "Name": "pk",
+    "Genre": "comedy",
+    "Year": 2013
+  },
+  {
+    "MovieId": 2,
+    "Name": "chennai express",
+    "Genre": "drama",
+    "Year": 2010
+  },
+  {
+    "MovieId": 3,
+    "Name": "krrish",
+    "Genre": "comedy",
+    "Year": 2015
+  },
+  {
+    "MovieId": 4,
+    "Name": "singham",
+    "Genre": "horror",
+    "Year": 2017
+  },
+  {
+    "MovieId": 5,
+    "Name": "war",
+    "Genre": "action",
+    "Year": 2012
+  }
+]

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\monocept\\tasks\\MovieLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C319F119-88A4-4380-A2D1-603ACF95AA61}|MovieLibrary.csproj|d:\\monocept\\tasks\\movielibrary\\service\\serializerdeserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C319F119-88A4-4380-A2D1-603ACF95AA61}|MovieLibrary.csproj|solutionrelative:service\\serializerdeserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C319F119-88A4-4380-A2D1-603ACF95AA61}|MovieLibrary.csproj|d:\\monocept\\tasks\\movielibrary\\controller\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C319F119-88A4-4380-A2D1-603ACF95AA61}|MovieLibrary.csproj|solutionrelative:controller\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C319F119-88A4-4380-A2D1-603ACF95AA61}|MovieLibrary.csproj|d:\\monocept\\tasks\\movielibrary\\exceptions\\moviestoreemptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C319F119-88A4-4380-A2D1-603ACF95AA61}|MovieLibrary.csproj|solutionrelative:exceptions\\moviestoreemptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C319F119-88A4-4380-A2D1-603ACF95AA61}|MovieLibrary.csproj|d:\\monocept\\tasks\\movielibrary\\exceptions\\movienotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C319F119-88A4-4380-A2D1-603ACF95AA61}|MovieLibrary.csproj|solutionrelative:exceptions\\movienotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C319F119-88A4-4380-A2D1-603ACF95AA61}|MovieLibrary.csproj|d:\\monocept\\tasks\\movielibrary\\model\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C319F119-88A4-4380-A2D1-603ACF95AA61}|MovieLibrary.csproj|solutionrelative:model\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C319F119-88A4-4380-A2D1-603ACF95AA61}|MovieLibrary.csproj|d:\\monocept\\tasks\\movielibrary\\exceptions\\moviestorefullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C319F119-88A4-4380-A2D1-603ACF95AA61}|MovieLibrary.csproj|solutionrelative:exceptions\\moviestorefullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieStoreFullException.cs",
+              "DocumentMoniker": "D:\\monocept\\tasks\\MovieLibrary\\Exceptions\\MovieStoreFullException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\MovieStoreFullException.cs",
+              "ToolTip": "D:\\monocept\\tasks\\MovieLibrary\\Exceptions\\MovieStoreFullException.cs",
+              "RelativeToolTip": "Exceptions\\MovieStoreFullException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:18:23.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieStoreEmptyException.cs",
+              "DocumentMoniker": "D:\\monocept\\tasks\\MovieLibrary\\Exceptions\\MovieStoreEmptyException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\MovieStoreEmptyException.cs",
+              "ToolTip": "D:\\monocept\\tasks\\MovieLibrary\\Exceptions\\MovieStoreEmptyException.cs",
+              "RelativeToolTip": "Exceptions\\MovieStoreEmptyException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:18:00.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieNotFoundException.cs",
+              "DocumentMoniker": "D:\\monocept\\tasks\\MovieLibrary\\Exceptions\\MovieNotFoundException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\MovieNotFoundException.cs",
+              "ToolTip": "D:\\monocept\\tasks\\MovieLibrary\\Exceptions\\MovieNotFoundException.cs",
+              "RelativeToolTip": "Exceptions\\MovieNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:17:33.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SerializerDeserializer.cs",
+              "DocumentMoniker": "D:\\monocept\\tasks\\MovieLibrary\\Service\\SerializerDeserializer.cs",
+              "RelativeDocumentMoniker": "Service\\SerializerDeserializer.cs",
+              "ToolTip": "D:\\monocept\\tasks\\MovieLibrary\\Service\\SerializerDeserializer.cs",
+              "RelativeToolTip": "Service\\SerializerDeserializer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:16:07.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "D:\\monocept\\tasks\\MovieLibrary\\Controller\\MovieController.cs",
+              "RelativeDocumentMoniker": "Controller\\MovieController.cs",
+              "ToolTip": "D:\\monocept\\tasks\\MovieLibrary\\Controller\\MovieController.cs",
+              "RelativeToolTip": "Controller\\MovieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:12:15.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\monocept\\tasks\\MovieLibrary\\Model\\Movie.cs",
+              "RelativeDocumentMoniker": "Model\\Movie.cs",
+              "ToolTip": "D:\\monocept\\tasks\\MovieLibrary\\Model\\Movie.cs",
+              "RelativeToolTip": "Model\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:09:36.559Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

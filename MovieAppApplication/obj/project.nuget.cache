@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "OuWaPwyVZHU=",
+  "success": true,
+  "projectFilePath": "D:\\monocept\\tasks\\MovieAppMiniProject\\MovieAppApplication\\MovieAppApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "MovieAppApplication depends on Newtonsoft.Json (>= 13.0.0) but Newtonsoft.Json 13.0.0 was not found. An approximate best match of Newtonsoft.Json 13.0.1 was resolved.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
